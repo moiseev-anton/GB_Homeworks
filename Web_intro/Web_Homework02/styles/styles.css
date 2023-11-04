@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(10, 10, 10);
+    size: 50%;
+}
+h1 {
+    font-family: "Oswald", sans-serif;
+    font-size: 3rem;
+    color: rgb(183, 255, 68);
+    margin-bottom: 0.2cm;
+    text-align: center
+}
+h2 {
+    font-family: "Oswald", sans-serif;
+    font-size: 100pt;
+    color: rgb(183, 255, 68);
+    margin-top: 0.2cm;
+    margin-bottom: 0.2cm;
+    text-align: center
+}
+p, ol, ul {
+    font-family: "Russo One", sans-serif;
+    color:  #ffffff ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30em;
+    font-size: 170%;
+}
+table {
+    margin: auto;
+  }
+img{
+    width: 405px;
+}
+
+a {
+    color: rgb(183, 255, 68);
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center
+}
+
+a:hover {
+    color: rgb(10, 10, 10);
+    background-color: rgb(183, 255, 68);;
+}
